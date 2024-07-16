@@ -1,1 +1,1 @@
-# KANJOZOKU Game Trinerssss
+# KANJOZOKU Game Triner
