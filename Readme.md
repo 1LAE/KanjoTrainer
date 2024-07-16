@@ -1,1 +1,1 @@
-# KANJOZOKU Game Trainer v1
+# KANJOZOKU Game Trainer v2
