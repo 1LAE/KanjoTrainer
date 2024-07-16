@@ -1,1 +1,1 @@
-# KANJOZOKU Game Triner
+# KANJOZOKU Game Trainer
