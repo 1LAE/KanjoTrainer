@@ -1,4 +1,4 @@
-# KANJOZOKU Game Trainer v2
+# KANJOZOKU Game Trainer v1 beta
 
 ## Installation:
 1. Download the zip file from this repository.
@@ -8,15 +8,21 @@
 
 ~~~
 Note: 
-Your save file located in: 
+Your save file located at: 
 C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 ~~~
+
+## Updating:
+1. Download the new version of the trainer.
+2. Extract the zip file to the same folder.
+3. Replace the old files with the new ones.
+
 
 ## Warning:
 This trainer is still in **development** and may contain bugs. Use at your own risk.
 
 ## Contact me:
-[<img src="https://i.redd.it/o3wqv82oqup91.png" alt="Discord" width="30"/>](https://discord.com) <span style="color:Blue">**ilae_0**</span> 
+[<img src="https://i.redd.it/o3wqv82oqup91.png" alt="Discord" width="30" />](https://discord.com) <span style="color:Blue">**ilae_0**</span> 
 
 
 ## Special thanks to:
