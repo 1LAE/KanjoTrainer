@@ -23,7 +23,7 @@ C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 
 ## Updating:
 1. Download the new version of the trainer.
-2. Extract the zip file to the same folder.
+2. Extract the `zip` file to the same folder.
 3. Replace the old files with the new ones.
 
 
