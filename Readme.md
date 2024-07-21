@@ -1,7 +1,7 @@
 # KANJOZOKU Game Trainer v1 beta
 
 ## Requirements:
-[![System](https://img.shields.io/badge/System-Windows_10-blu?style=plastic&logo=windows)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+[![System](https://img.shields.io/badge/System-Windows_10-blue?style=plastic&logo=windows)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 [![Game](https://img.shields.io/badge/Kanjozoku_Game-Latest_version-green?style=plastic&logo=steam)](https://store.steampowered.com/app/2073470/Kanjozoku_Game__Online_Street_Racing__Drift/)
 
