@@ -29,7 +29,7 @@ C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 This trainer is still in **development** and may contain bugs. Use at your own risk.
 
 ## Contact me:
-[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=plastic&logo=discord)](https://discordapp.com/users/693473943742316544)
+[![Discord](https://img.shields.io/badge/ILAE-blue?style=plastic&logo=discord)](https://discordapp.com/users/693473943742316544)
 <!-- [<img src="https://i.redd.it/o3wqv82oqup91.png" alt="Discord" width="30" />](https://discord.com) <span style="color:Blue">**ilae_0**</span>  -->
 
 
