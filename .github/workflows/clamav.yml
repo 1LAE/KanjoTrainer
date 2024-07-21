@@ -1,0 +1,26 @@
+name: ClamAV Scan
+
+on:
+  push:
+    paths:
+      - '**.exe'
+      - '**.dat'
+      - '**.md'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install ClamAV
+      run: sudo apt-get install -y clamav
+
+    - name: Update ClamAV database
+      run: sudo freshclam
+
+    - name: Scan for viruses
+      run: clamscan -r .
+
