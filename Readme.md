@@ -1,7 +1,7 @@
 # KANJOZOKU Game Trainer v1 beta
 
 ### Antivirus check
-![ClamAV Scan](https://github.com/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)
+![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)
 
 ## Installation:
 1. Download the zip file from this repository.

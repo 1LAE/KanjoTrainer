@@ -18,8 +18,8 @@ jobs:
     - name: Install ClamAV
       run: sudo apt-get install -y clamav
 
-    - name: Update ClamAV database
-      run: sudo freshclam
+    # - name: Update ClamAV database
+    #   run: sudo freshclam
 
     - name: Scan for viruses
       run: clamscan -r .
