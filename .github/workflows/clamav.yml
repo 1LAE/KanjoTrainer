@@ -6,6 +6,7 @@ on:
       - '**.exe'
       - '**.dat'
       - '**.md'
+      - '**.yml'
 
 jobs:
   scan:
