@@ -5,7 +5,7 @@
 ![Game](https://img.shields.io/badge/Kanjozoku_Game-Latest_version-green)
 
 ### Antivirus check
-![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)
+[![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)](https://github.com/1LAE/KanjoTrainer/actions/runs/10027744000/job/27713798634)
 
 ## Installation:
 1. Download the zip file from this repository.
