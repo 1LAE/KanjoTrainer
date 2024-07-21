@@ -14,9 +14,10 @@
 3. Copy your save file to `./saves` folder
 4. Run the `KanjoTrainer.exe` file.
 
-~~~
-Note: 
+
+### Note: 
 Your save file located at: 
+~~~
 C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 ~~~
 
