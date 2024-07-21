@@ -19,7 +19,8 @@
 [![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)](https://github.com/1LAE/KanjoTrainer/actions/runs/10027744000/job/27713798634)
 
 ## Installation:
-1. Download the zip file from this repository.
+1. [Download](https://github.com/1LAE/KanjoTrainer/archive/refs/heads/main.zip) the zip file from this repository 
+    [If clicking the 'Download' button didn't work](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view).
 2. Extract the zip file to any folder.
 3. Copy your save file to `./saves` folder
 4. Run the `KanjoTrainer.exe` file.
@@ -32,7 +33,7 @@ C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 ~~~
 
 ## Updating:
-1. Download the new version of the trainer.
+1. Download the new version of the trainer from this repository.
 2. Extract the `zip` file to the same folder.
 3. Replace the old files with the new ones.
 
