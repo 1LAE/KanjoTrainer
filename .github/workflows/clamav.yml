@@ -5,7 +5,7 @@ on:
     paths:
       - '**.exe'
       - '**.dat'
-      - '**.md'
+      # - '**.md'
       - '**.yml'
 
 jobs:

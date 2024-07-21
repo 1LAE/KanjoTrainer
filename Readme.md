@@ -1,5 +1,9 @@
 # KANJOZOKU Game Trainer v1 beta
 
+## Requirements:
+![System](https://img.shields.io/badge/System-Windows_10-blue)
+![Game](https://img.shields.io/badge/Kanjozoku_Game-Latest_version-green)
+
 ### Antivirus check
 ![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)
 
@@ -26,6 +30,7 @@ This trainer is still in **development** and may contain bugs. Use at your own r
 
 ## Contact me:
 [<img src="https://i.redd.it/o3wqv82oqup91.png" alt="Discord" width="30" />](https://discord.com) <span style="color:Blue">**ilae_0**</span> 
+
 
 
 ## Special thanks to:
