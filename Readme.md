@@ -1,13 +1,12 @@
 # KANJOZOKU Game Trainer v1 beta
 
 ## Description:
-KanjoTrainer is a third-party application for modifying game saves of the Kanjozoku game.
+*KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku game.
 
 ## Features:
 - Changing a nickname longer than 30 characters
 - Balance change
 - LS3 engine swap for any car
-
 
 ## Requirements:
 [![System](https://img.shields.io/badge/System-Windows_10_64bit-blue)](https://www.microsoft.com/en-us/software-download/windows10ISO)
