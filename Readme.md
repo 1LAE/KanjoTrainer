@@ -30,6 +30,7 @@ This trainer is still in **development** and may contain bugs. Use at your own r
 
 ## Contact me:
 [![Discord](https://img.shields.io/badge/Discord-ILAE-red?style=plastic&logo=discord)](https://discordapp.com/users/693473943742316544)
+
 [![Gmail](https://img.shields.io/badge/Gmail-ILAE-red?style=plastic&logo=gmail)](mailto:kanjotrainer@gmail.com?subject=Kanjozoku%20Game%20Trainer)
 <!-- [<img src="https://i.redd.it/o3wqv82oqup91.png" alt="Discord" width="30" />](https://discord.com) <span style="color:Blue">**ilae_0**</span>  -->
 
