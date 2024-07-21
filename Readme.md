@@ -20,7 +20,7 @@
 
 ## Installation:
 1. [Download](https://github.com/1LAE/KanjoTrainer/archive/refs/heads/main.zip) the zip file from this repository 
-    [If clicking the 'Download' button didn't work](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view).
+    <br>[If clicking the 'Download' button didn't work](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view).
 2. Extract the zip file to any folder.
 3. Copy your save file to `./saves` folder
 4. Run the `KanjoTrainer.exe` file.
