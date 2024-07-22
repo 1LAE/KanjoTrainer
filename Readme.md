@@ -2,7 +2,8 @@
 
 ## Description:
 
-<img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="450"/>*KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
+*KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
+<img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="150"/>
 
 ## Features:
 - Changing a nickname longer than 30 characters
