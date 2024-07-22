@@ -16,7 +16,7 @@
 
 [![Game](https://img.shields.io/badge/Kanjozoku_Game-Latest_version-green?style=plastic&logo=steam)](https://store.steampowered.com/app/2073470/Kanjozoku_Game__Online_Street_Racing__Drift/)
 
-[![Enet](https://img.shields.io/badge/Internet_connection-Stable-green?style=plastic&logo=steam)](https://store.steampowered.com/app/2073470/Kanjozoku_Game__Online_Street_Racing__Drift/)
+[![Enet](https://img.shields.io/badge/Internet_connection-Stable-green?style=plastic)](https://store.steampowered.com/app/2073470/Kanjozoku_Game__Online_Street_Racing__Drift/)
 
 ### Antivirus check
 [![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)](https://github.com/1LAE/KanjoTrainer/actions/runs/10027744000/job/27713798634)
