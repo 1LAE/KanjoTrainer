@@ -3,7 +3,7 @@
 ## Description:
 *KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073470/capsule_616x353.jpg?t=1720445343" alt="Kanjo" width="600"/>
+<img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="450"/>
 
 ## Features:
 - Changing a nickname longer than 30 characters
@@ -52,3 +52,6 @@ This trainer is still in **development** and may contain bugs. Use at your own r
 ## Special thanks to:
 <!-- <span style="color:Blue">**Davai**</span> - For helping me with the project. -->
 ![Helper](https://img.shields.io/badge/Helping_and_testing-Davai-blue)
+
+## Enjoy!
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073470/capsule_616x353.jpg?t=1720445343" alt="Kanjo" width="600"/>
