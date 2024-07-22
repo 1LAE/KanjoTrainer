@@ -21,7 +21,7 @@ The application has a console interface (for now) and allows you to tweak game f
 [![Enet](https://img.shields.io/badge/Internet_connection-Stable-green?style=plastic)](https://store.steampowered.com/app/2073470/Kanjozoku_Game__Online_Street_Racing__Drift/)
 
 ### Antivirus check
-[![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)](https://github.com/1LAE/KanjoTrainer/actions/runs/10027744000/job/27713798634)
+[![ClamAV Scan](https://github.com/1LAE/KanjoTrainer/actions/workflows/clamav.yml/badge.svg)](https://github.com/1LAE/KanjoTrainer/actions/runs/10043687290/job/27757006438)
 
 ## Installation:
 1. [Download](https://github.com/1LAE/KanjoTrainer/archive/refs/heads/main.zip) the zip file from this repository 
