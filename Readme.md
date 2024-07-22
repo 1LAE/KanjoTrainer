@@ -2,14 +2,16 @@
 
 ## Description:
 
-***KanjoTrainer*** is a third-party application for modifying game saves of the Kanjozoku Game.
+***KanjoTrainer*** is a third-party application for modifying game saves of the Kanjozoku Game. 
+The application has a console interface (for now) and allows you to tweak game files.
 <br><br>
 <img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="150"/>
 
 ## Features:
-- Changing a nickname longer than 30 characters
-- Balance change
+- Changing a nickname longer than 30 characters (90 symbols max)
+- Free money
 - LS3 engine swap for any car
+- A couple more interesting features
 
 ## Requirements:
 [![System](https://img.shields.io/badge/System-Windows_10_64bit-blue)](https://www.microsoft.com/en-us/software-download/windows10ISO)
@@ -23,10 +25,10 @@
 
 ## Installation:
 1. [Download](https://github.com/1LAE/KanjoTrainer/archive/refs/heads/main.zip) the zip file from this repository 
-    <br>[Download button didn't work?](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view).
-2. Extract the zip file to any folder.
+    <br>[Download button didn't work?](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view)
+2. Extract the zip file to any folder
 3. Copy your save file to `./saves` folder
-4. Run the `KanjoTrainer.exe` file.
+4. Run the `KanjoTrainer.exe` file
 
 
 ### Note: 
@@ -36,9 +38,9 @@ C:\Users\%User%\AppData\LocalRow\SDEV\Kanjozoku Game\save.data
 ~~~
 
 ## Updating:
-1. Download the new version of the trainer from this repository.
-2. Extract the `zip` file to the same folder.
-3. Replace the old files with the new ones.
+1. Download the new version of the trainer from this repository
+2. Extract the `zip` file to the same folder
+3. Replace the old files with the new ones
 
 
 ## Warning:
