@@ -1,9 +1,21 @@
 # KANJOZOKU Game Trainer v1 beta
 
 ## Description:
-*KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
 
-<img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="450"/>
+<table>
+<tr>
+<td>
+<img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="300"/>
+</td>
+<td>
+*KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
+</td>
+</tr>
+</table>
+
+
+
+
 
 ## Features:
 - Changing a nickname longer than 30 characters
