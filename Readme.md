@@ -3,6 +3,7 @@
 ## Description:
 
 *KanjoTrainer* is a third-party application for modifying game saves of the Kanjozoku Game.
+<br>
 <img src="https://s1.hostingkartinok.com/uploads/images/2024/07/24882870b0ffa633937e2d0b563571a5.png" alt="Kanjo" width="150"/>
 
 ## Features:
