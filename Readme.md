@@ -13,6 +13,9 @@ The application has a console interface (for now) and allows you to tweak game f
 - LS3 engine swap for any car
 - A couple more interesting features
 
+[![Github All Releases](https://img.shields.io/github/downloads/1LAE/KanjoTrainer/total.svg)]()
+
+
 ## Requirements:
 [![System](https://img.shields.io/badge/System-Windows_10_64bit-blue)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
